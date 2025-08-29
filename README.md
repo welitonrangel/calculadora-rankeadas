@@ -1,6 +1,6 @@
 # 🏆 Calculadora de Partidas Rankeadas
 
-Projeto desenvolvido como parte de um desafio de código do bootcamp da **DIO (Digital Innovation One)** para praticar conceitos básicos de programação.
+Projeto desenvolvido como parte de um desafio de código da **DIO (Digital Innovation One)** para praticar conceitos básicos de programação.
 
 ## 📝 Descrição do Desafio
 
@@ -39,5 +39,6 @@ Ao final, o programa exibe uma mensagem com o saldo e o nível do jogador.
     ```bash
     node index.js
     ```
+## 👨‍💻 Autor
 
-O terminal exibirá a saída com o saldo de vitórias e o nível do herói. Você pode alterar os valores nos exemplos de uso dentro do arquivo `calculadoraRankeadas.js` para testar outros resultados.
+Feito por **Weliton Rangel**.
