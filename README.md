@@ -27,7 +27,7 @@ Ao final, o programa exibe uma mensagem com o saldo e o nível do jogador.
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/welitonrangel/calculadora-rankeadas.git)
+    git clone https://github.com/welitonrangel/calculadora-rankeadas.git
     ```
 
 2.  **Acesse a pasta do projeto:**
@@ -37,7 +37,7 @@ Ao final, o programa exibe uma mensagem com o saldo e o nível do jogador.
 
 3.  **Execute o script:**
     ```bash
-    node calculadoraRankeadas.js
+    node index.js
     ```
 
 O terminal exibirá a saída com o saldo de vitórias e o nível do herói. Você pode alterar os valores nos exemplos de uso dentro do arquivo `calculadoraRankeadas.js` para testar outros resultados.
